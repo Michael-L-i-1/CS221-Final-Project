@@ -1,0 +1,12 @@
+# Python model files
+*.pth
+
+# JSON files
+*.json
+
+# Virtual environment
+venv/
+
+# Dataset directories
+dataset/
+raw_data/
